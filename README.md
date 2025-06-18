@@ -61,3 +61,5 @@ SQL script used to recreate the database from the backup file.
 Step-by-step explanation of the backup and restore procedure, tools used, and verification steps performed.
 
 *OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/2f93f582-56d2-4386-bfd2-88b71547acd1)
